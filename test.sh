@@ -1,0 +1,1 @@
+python manage.py tests/test_app.py
