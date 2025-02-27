@@ -1,1 +1,1 @@
-python manage.py tests/test_app.py
+python tests/test_app.py
